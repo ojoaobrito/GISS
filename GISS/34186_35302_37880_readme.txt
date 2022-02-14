@@ -1,0 +1,7 @@
+Notas uteis:
+
+- Para visualizar e correr as aplicações deve usar-se o Netbeans 
+- É possível que sejam necessários drivers para trabalhar com interface gráfica Netbeans: https://www.microsoft.com/en-us/download/details.aspx?id=11774
+- Consultar relatório para guia das aplicações
+- Ir ao SQL Management Studio, e no panel lateral clicar em security. Depois login, e com o botão direito carregar em em "New Login". Criar um utilizador "bases" com a pass "Bases2018", com privilégios para aceder à base de dados "Projeto"
+- Colocar o .dll (incluído na pasta das apps) na pasta Windows>System32.
