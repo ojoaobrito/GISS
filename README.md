@@ -1,2 +1,2 @@
 # GISS
-Full details at www.joaobrito.net/projects/giss
+*Full details at www.joaopedrobrito.com/projects/giss.*
